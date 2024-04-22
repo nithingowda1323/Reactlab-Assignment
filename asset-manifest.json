@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nithingowda1323/Reactlab-Assignment/static/css/main.df085b67.css",
+    "main.js": "/nithingowda1323/Reactlab-Assignment/static/js/main.28623a12.js",
+    "static/js/453.3bf87755.chunk.js": "/nithingowda1323/Reactlab-Assignment/static/js/453.3bf87755.chunk.js",
+    "index.html": "/nithingowda1323/Reactlab-Assignment/index.html",
+    "main.df085b67.css.map": "/nithingowda1323/Reactlab-Assignment/static/css/main.df085b67.css.map",
+    "main.28623a12.js.map": "/nithingowda1323/Reactlab-Assignment/static/js/main.28623a12.js.map",
+    "453.3bf87755.chunk.js.map": "/nithingowda1323/Reactlab-Assignment/static/js/453.3bf87755.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df085b67.css",
+    "static/js/main.28623a12.js"
+  ]
+}
